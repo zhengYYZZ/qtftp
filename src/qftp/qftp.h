@@ -154,6 +154,7 @@ private:
     Q_PRIVATE_SLOT(d, void _q_piError(int, const QString&))
     Q_PRIVATE_SLOT(d, void _q_piConnectState(int))
     Q_PRIVATE_SLOT(d, void _q_piFtpReply(int, const QString&))
+
 };
 
 QT_END_NAMESPACE

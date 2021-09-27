@@ -11,3 +11,7 @@ them manually by running the syncqt Perl script. For example:
 
 cd qtftp
 <QTDIR>/bin/syncqt.pl -version 5.1.0
+
+-------------------------------------------------------------------
+需要安装perl,地址： http://strawberryperl.com
+先构建qtftp_src,再构建qtftp_examples
